@@ -1,6 +1,6 @@
-package repositorys;
+package com.Amanda.webBooks.repositorys;
 
-import models.Authors;
+import com.Amanda.webBooks.models.Authors;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

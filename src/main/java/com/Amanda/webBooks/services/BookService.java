@@ -1,10 +1,10 @@
-package services;
+package com.Amanda.webBooks.services;
 
 
 import lombok.RequiredArgsConstructor;
-import models.Books;
+import com.Amanda.webBooks.models.Books;
 import org.springframework.stereotype.Service;
-import repositorys.BooksRepo;
+import com.Amanda.webBooks.repositorys.BooksRepo;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package models;
+package com.Amanda.webBooks.models;
 
 
 import jakarta.persistence.*;
